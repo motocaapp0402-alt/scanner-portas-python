@@ -1,3 +1,4 @@
+
 import socket
 from datetime import datetime
 
@@ -20,4 +21,4 @@ for porta in portas:
     s.close()
 
 print("-" * 50)
-print("Scan finalizado!")
+print("Escaneamento finalizado!")
